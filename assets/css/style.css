@@ -700,7 +700,7 @@ h3.my-profession
     text-align: center;
 }
 
-.service .service-item .service-item-inner .icon .fa
+.service .service-item .service-item-inner .icon .fas
 {
     font-size: 40px;
     line-height: 60px;
@@ -713,7 +713,7 @@ h3.my-profession
     background: var(--skin-color);
 }
 
-.service .service-item .service-item-inner:hover .icon .fa
+.service .service-item .service-item-inner:hover .icon .fas
 {
     font-size: 25px;
     color: #ffffff;
@@ -870,8 +870,8 @@ h3.my-profession
 
 .achievements .achievement-item
 {
-    flex: 0 0 33.33%;
-    max-width: 33.33%;
+    flex: 0 0 50%;
+    max-width: 50%;
     margin-bottom: 30px;
 }
 
