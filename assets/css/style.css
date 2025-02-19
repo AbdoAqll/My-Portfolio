@@ -1024,7 +1024,8 @@ h3.my-profession
         left: 270px;
     }
 
-    .about .about-content .personal-info .info-item
+    .about .about-content .personal-info .info-item,
+    .contact .contact-info-item
     {
         flex: 0 0 100%;
         max-width: 100%;
